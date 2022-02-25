@@ -1,9 +1,27 @@
 # Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module
 
+## Table of Contents.
+1. About the gas leakage
+      1. Description.
+      1. Features.
+      1. State of art.
+2. Swot Analysis.
+      1. Strength
+      1. Weakness
+      1. Opportunities
+      1. Threats.
+      1. 4W & 1H.
+3. Block Diagram.
+      1. Components in Block Diagram.
+4. High Level Requiremnts.
+5. Low Level Requiremnets.
+      
+ 
+## Description
    The presence of dangerous LPG leakage in the cars, service station or in the storage tank environment can be detected using the Ideal Gas Sensor. This LPG gas leakage detector unit can be easily integrated into a unit that can sound an alarm or give a visual suggestion of the LPG concentration. The sensor has both admirable sensitivity and rapid response time. This sensor can also be used to sense other gases like iso-butane, propane, LNG and even cigarette smoke.
  
    The output of the sensor goes LOW as soon as the LPG sensor senses any gas leakage from the storage. This is detected by the microcontroller and the LED & buzzer is turned ON. After the delay of few milliseconds, the exhaust fan is also turned ON for throwing the gas out and it continues sending message as ‘GAS LEAKAGE’ to a mobile number which is pre-defined.
-   
+
 ## FEATURES
 
 *  The sensor has both admirable sensitivity and rapid response time.
@@ -35,27 +53,6 @@
 
 - It's sensitivity depends on Humidity and temperature.
 
-![image](https://user-images.githubusercontent.com/94245015/144033489-b0d1b180-5273-4bca-8828-fed46b83cd5b.png)
-
-# Components in Block diagram.
-## AVR MICROCONTROLLER
- - It contain on chip central processing unit (CPU), Read only memory (ROM), Random access memory (RAM), input/output unit, interrupts controller etc. Therefore a microcontroller is used for high speed signal processing operation inside an embedded system.
-
-## Gas Sensor
- - Gas sensors also known as gas detectors are electronic devices that detect and identify different types of gasses. ... It includes all MQ series gas sensors this module Module can be used to sense Carbon Monoxide and Methane Gas, Hydrogen Gas, etc.
-
-## GSM Module
- - A GSM modem or GSM module is a hardware device that uses GSM mobile telephone technology to provide a data link to a remote network. From the view of the mobile phone network, they are essentially identical to an ordinary mobile phone, including the need for a SIM to identify themselves to the network.
-
-## LED
- - It is a light emitting diode used for the indication.
-
-## Buzzer
- - A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, and confirmation of user input such as a mouse click or keystroke.
-
-## Exhaust Fan
- - They are used to remove the leaked gas out as a safety measure and are basiclly used to cool places that have suddenly become too hot.
-
 ## OPPORTUNITIES
 
 - Gas detectors can be used to detect combustible, flammable and toxic gases, and oxygen depletion. 
@@ -77,6 +74,27 @@
 - Gas sensors are employed in factories and manufacturing facilities to identify gas leaks, and to detect smoke and carbon monoxide in homes and also in vehicles.
 ## HOW
 - If it detects a gas leak, the LED will light up, the buzzer will activate, then the system will send a notification message stating that there has been an LPG gas leak. If       no LPG gas leak is detected, the system will continue to detect the gas level through the LPG gas sensor until it detects an LPG gas leak.
+
+![image](https://user-images.githubusercontent.com/94245015/144033489-b0d1b180-5273-4bca-8828-fed46b83cd5b.png)
+
+# Components in Block diagram.
+## AVR MICROCONTROLLER
+ - It contain on chip central processing unit (CPU), Read only memory (ROM), Random access memory (RAM), input/output unit, interrupts controller etc. Therefore a microcontroller is used for high speed signal processing operation inside an embedded system.
+
+## Gas Sensor
+ - Gas sensors also known as gas detectors are electronic devices that detect and identify different types of gasses. ... It includes all MQ series gas sensors this module Module can be used to sense Carbon Monoxide and Methane Gas, Hydrogen Gas, etc.
+
+## GSM Module
+ - A GSM modem or GSM module is a hardware device that uses GSM mobile telephone technology to provide a data link to a remote network. From the view of the mobile phone network, they are essentially identical to an ordinary mobile phone, including the need for a SIM to identify themselves to the network.
+
+## LED
+ - It is a light emitting diode used for the indication.
+
+## Buzzer
+ - A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, and confirmation of user input such as a mouse click or keystroke.
+
+## Exhaust Fan
+ - They are used to remove the leaked gas out as a safety measure and are basiclly used to cool places that have suddenly become too hot.
 ## HIGH LEVEL REQUIREMENTS
 
 |ID|DESCRIPTION
