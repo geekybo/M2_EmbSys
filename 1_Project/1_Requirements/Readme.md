@@ -1,25 +1,76 @@
-# 4 W's and 1 H
+# INTRODUCTION
 
-## Who
-Every person who wants high temperature and in low temperature region people can be benified.
+   The presence of dangerous LPG leakage in the cars, service station or in the storage tank environment can be detected using the Ideal Gas Sensor. This LPG gas leakage detector unit can be easily integrated into a unit that can sound an alarm or give a visual suggestion of the LPG concentration. The sensor has both admirable sensitivity and rapid response time. This sensor can also be used to sense other gases like iso-butane, propane, LNG and even cigarette smoke.
+ 
+   The output of the sensor goes LOW as soon as the LPG sensor senses any gas leakage from the storage. This is detected by the microcontroller and the LED & buzzer is turned ON. After the delay of few milliseconds, the exhaust fan is also turned ON for throwing the gas out and it continues sending message as ‘GAS LEAKAGE’ to a mobile number which is pre-defined.
+   
+# FEATURES
 
-## What
-A Hotseat is a application where one can adjust their requied temperature to the seat to get comfort from the environment temperatures.
+*  The sensor has both admirable sensitivity and rapid response time.
+*  This sensor can also be used to sense other gases like iso-butane, propane, LNG and even cigarette smoke. 
+*  The output of the sensor goes LOW as soon as the LPG sensor senses any gas leakage from the storage.
+*  Easy to use.
 
-## When
 
-Mostly in winter seasons and almost in every regions it can start now.
+# STATE OF ART/RESEARCH
 
-## Where
+![image](https://user-images.githubusercontent.com/94245015/144088408-5831066c-a48d-4419-8517-bab65da67e2d.png)
 
-It can be implemented in low temperature regions . 
 
-## How
+# SWOT ANALYSIS
 
-This application was developed in SimulIDE using CodeBlocks. 
-## SWOT ANALYSIS
-![SWOT](https://github.com/pavankalyanmedishetty/stepin_embeddeb_c/blob/94728435295c0ef044759ba18b0854108d8d7543/1_Requirements/SWOT.png)
+# STRENGTH 
 
-## FLOW CHART
-![FLOWCHART](https://github.com/pavankalyanmedishetty/stepin_embeddeb_c/blob/ee6aee5af5a5833d9229a0238f99468dfa170687/2_Architectures/FLOWCHART.drawio.png)
+ - Detection and Prevention of any sort of gas leakage.
+
+- Cost Efficient and less Complex circuit.
+
+- No environmental effect or no effect of physical conditions.
+
+- It is use in vehicles and as well as in houses as LPG leakage detection.
+
+# WAEKNESS
+
+- It work only when at 5v power supply.
+
+- It's sensitivity depends on Humidity and temperature.
+
+# OPPORTUNITIES
+
+- Gas detectors can be used to detect combustible, flammable and toxic gases, and oxygen depletion. 
+- This type of device is used widely in industry and can be found in locations, such as on oil rigs, to monitor manufacturing processes and emerging technologies such as         
+  photovoltaic. 
+- They may be used in firefighting.
+
+# THREATS
+- Inhaling leaked gas in an indoor space, such as your home can result in a lack of oxygen in the air and lead to hypoxia.
+- That can, in turn, lead to severe headaches, fatigue, decreased vision, short breaths, and even loss of consciousness.
+# 4W & 1H
+# WHY
+- The purpose of this system is to detect gas leakage, neutralize it, and prevent the explosion.
+# WHEN
+- Gas detectors can be used to detect combustible, flammable and toxic gases, and oxygen depletion.
+# WHERE
+- They are commonly used to detect toxic or explosive gases and measure gas concentration.- When gas leaks do occur, they pose serious risks of carbon monoxide poisoning in       people and animals. 
+# WHO
+- Gas sensors are employed in factories and manufacturing facilities to identify gas leaks, and to detect smoke and carbon monoxide in homes and also in vehicles.
+# HOW
+- If it detects a gas leak, the LED will light up, the buzzer will activate, then the system will send a notification message stating that there has been an LPG gas leak. If       no LPG gas leak is detected, the system will continue to detect the gas level through the LPG gas sensor until it detects an LPG gas leak.
+# HIGH LEVEL REQUIREMENTS
+
+|ID|DESCRIPTION
+|--|--|
+| HL1 |Sensor to detects the gas leakage.
+| HL2 |GSM module to send a message to a registered mobile number.
+| HL3 |Buzzer to alert the fire has produced.
+
+# LOW LEVEL REQUIREMENTS
+
+|ID|DESCRIPTION|
+|--|--|
+| LL1 |LED to display the message.
+| LL2 |The circuit to function accordingly
+| LL3 |Easy to use 
+
+
 
