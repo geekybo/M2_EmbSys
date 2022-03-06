@@ -103,21 +103,5 @@
 
 ## Exhaust Fan
  - They are used to remove the leaked gas out as a safety measure and are basiclly used to cool places that have suddenly become too hot.
-## HIGH LEVEL REQUIREMENTS
-
-|ID|DESCRIPTION
-|--|--|
-| HL1 |Sensor to detects the gas leakage.
-| HL2 |GSM module to send a message to a registered mobile number.
-| HL3 |Buzzer to alert the fire has produced.
-
-## LOW LEVEL REQUIREMENTS
-
-|ID|DESCRIPTION|
-|--|--|
-| LL1 |LED to display the message.
-| LL2 |The circuit to function accordingly
-| LL3 |Easy to use 
-
 
 
