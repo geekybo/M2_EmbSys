@@ -80,7 +80,8 @@ The output of the sensor goes LOW as soon as the LPG sensor senses any gas leaka
 # Component Diagram
 ![image](https://user-images.githubusercontent.com/94245015/143805428-404acfe2-d3b8-46d1-be12-b9cfa04588a9.png)
 # Flow Chart
-![image](https://user-images.githubusercontent.com/94245015/143779074-3eb5fa13-50f0-4645-bf46-716d4c8a1183.png)
+![F1](https://user-images.githubusercontent.com/98813646/156940218-9ae15f07-acf4-43ca-a3b7-49e329083585.PNG)
+
 # HIGH LEVEL TEST PLAN
 
 | **Test ID** | **Description**                                              | **Expected Input** | **Actual Output | **Expected Output** |   
