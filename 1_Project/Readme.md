@@ -1,5 +1,7 @@
 # Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module
 ![Gas](https://user-images.githubusercontent.com/98813646/155738299-52cb1792-8b15-4ba1-8810-879c6197d066.PNG)
+# CODE ANALYSIS.
+![M2_Emb](https://user-images.githubusercontent.com/98813646/156938928-fa034589-aa74-4ad4-88e9-b5f8a8d117ad.PNG)
 
 | Code Quality Score | Code Grade | Codacy |
 | -- | -- | -- |
