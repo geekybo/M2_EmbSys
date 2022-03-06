@@ -60,9 +60,11 @@
 
 |ID|DESCRIPTION
 |--|--|
-| HL1 |Sensor to detects the gas leakage.
+| HL1 |Sensor to detect the gas leakage.
 | HL2 |GSM module to send a message to a registered mobile number.
 | HL3 |Buzzer to alert the fire has produced.
+| HL4 |To have a quick response time.
+| HL5 |Circuit to be less complex.
 
 # LOW LEVEL REQUIREMENTS
 
@@ -70,7 +72,9 @@
 |--|--|
 | LL1 |LED to display the message.
 | LL2 |The circuit to function accordingly
-| LL3 |Easy to use 
+| LL3 |The complexity to be low.
+| LL4 |Understandable to a layman.
+| LL3 |Easy to use as such appropriate action could be taken.
 
 
 
