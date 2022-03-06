@@ -1,6 +1,10 @@
 # Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module
 ![Gas](https://user-images.githubusercontent.com/98813646/155738299-52cb1792-8b15-4ba1-8810-879c6197d066.PNG)
 
+| Code Quality Score | Code Grade | Codacy |
+| -- | -- | -- |
+| ![code quality](https://api.codiga.io/project/31606/score/svg) | ![Code Grade](https://api.codiga.io/project/31606/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d2c0b11de0c04752b68999beaa36ed50)](https://www.codacy.com/gh/geekybo/M2_EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=geekybo/M2_EmbSys&amp;utm_campaign=Badge_Grade)
+
 
 ## Table of Contents.
 1. About the gas leakage
