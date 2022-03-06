@@ -1,4 +1,4 @@
-
+// Made by @geekybo.
 PROJ_NAME = Micro Controller Based LPG Gas Leakage Detector using GSM Module
 
 BUILD_DIR = Build
