@@ -10,5 +10,6 @@
 
 
 # Flow Chart
-![image](https://user-images.githubusercontent.com/94245015/143779074-3eb5fa13-50f0-4645-bf46-716d4c8a1183.png)
+![F1](https://user-images.githubusercontent.com/98813646/156937711-376a3dd7-dbd2-49d1-8ff4-961c4a0c5c83.PNG)
+
 
