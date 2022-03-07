@@ -1,1 +1,3 @@
-
+- https://www.biz4intellia.com/blog/applications-and-benefits-of-using-gas-monitoring/
+- https://www.google.com/search?q=atmega+328+gas+sensor&tbm=isch&chips=q:atmega+328+gas+sensor,online_chips:lpg+gas+leakage+detector:lezI6wLoE7k%3D&rlz=1C1CHBF_enIN964IN964&hl=en&sa=X&ved=2ahUKEwjC44nWxrT2AhUc_jgGHXk9DTEQ4lYoAnoECAEQIQ&biw=1519&bih=722
+- https://exploreembedded.com/wiki/Interfacing_Gas_Sensor_(MQ2)_With_AVR
