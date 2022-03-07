@@ -3,9 +3,9 @@
 # CODE ANALYSIS.
 ![M2_Emb](https://user-images.githubusercontent.com/98813646/156938928-fa034589-aa74-4ad4-88e9-b5f8a8d117ad.PNG)
 
-| Code Quality Score | Code Grade | Codacy |
-| -- | -- | -- |
-| ![code quality](https://api.codiga.io/project/31606/score/svg) | ![Code Grade](https://api.codiga.io/project/31606/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d2c0b11de0c04752b68999beaa36ed50)](https://www.codacy.com/gh/geekybo/M2_EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=geekybo/M2_EmbSys&amp;utm_campaign=Badge_Grade)
+| Code Quality Score | Code Grade | Codacy | Cpp Check |
+| -- | -- | -- | -- |
+| ![code quality](https://api.codiga.io/project/31606/score/svg) | ![Code Grade](https://api.codiga.io/project/31606/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d2c0b11de0c04752b68999beaa36ed50)](https://www.codacy.com/gh/geekybo/M2_EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=geekybo/M2_EmbSys&amp;utm_campaign=Badge_Grade) | [![Cpp check](https://github.com/geekybo/M2_EmbSys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/geekybo/M2_EmbSys/actions/workflows/cppcheck.yml)
 
 
 ## Table of Contents.
