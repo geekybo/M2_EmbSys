@@ -9,5 +9,5 @@
 | **Test ID** | **Description**                                              | **Expected Input** | **Actual Output | **Expected Output** | **Passed or Not** | 
 |-------------|--------------------------------------------------------------|--------------------|-----------------|---------------------|-------------------|
 |  L1     | To print the value in LCD board | MQ5 gas sensor measures the gas leakage | Display the message |  Display the message |✅ |
-|  H2     | To detect the gas leakage | Buzzer sound | LED ON/OFF | LED ON/OFF |✅ |
+|  L2     | To detect the gas leakage | Buzzer sound | LED ON/OFF | LED ON/OFF |✅ |
 
