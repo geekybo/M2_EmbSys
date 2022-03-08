@@ -3,7 +3,27 @@
    The presence of dangerous LPG leakage in the cars, service station or in the storage tank environment can be detected using the Ideal Gas Sensor. This LPG gas leakage detector unit can be easily integrated into a unit that can sound an alarm or give a visual suggestion of the LPG concentration. The sensor has both admirable sensitivity and rapid response time. This sensor can also be used to sense other gases like iso-butane, propane, LNG and even cigarette smoke.
  
    The output of the sensor goes LOW as soon as the LPG sensor senses any gas leakage from the storage. This is detected by the microcontroller and the LED & buzzer is turned ON. After the delay of few milliseconds, the exhaust fan is also turned ON for throwing the gas out and it continues sending message as ‘GAS LEAKAGE’ to a mobile number which is pre-defined.
-   
+
+# HIGH LEVEL REQUIREMENTS
+
+|ID|DESCRIPTION
+|--|--|
+| HL1 |Sensor to detect the gas leakage.
+| HL2 |GSM module to send a message to a registered mobile number.
+| HL3 |Buzzer to alert the fire has produced.
+| HL4 |To have a quick response time.
+| HL5 |Circuit to be less complex.
+
+# LOW LEVEL REQUIREMENTS
+
+|ID|DESCRIPTION|
+|--|--|
+| LL1 |LED to display the message.
+| LL2 |The circuit to function accordingly
+| LL3 |The complexity to be low.
+| LL4 |Understandable to a layman.
+| LL3 |Easy to use as such appropriate action could be taken
+
 # FEATURES
 
 *  The sensor has both admirable sensitivity and rapid response time.
@@ -56,25 +76,6 @@
 - Gas sensors are employed in factories and manufacturing facilities to identify gas leaks, and to detect smoke and carbon monoxide in homes and also in vehicles.
 # HOW
 - If it detects a gas leak, the LED will light up, the buzzer will activate, then the system will send a notification message stating that there has been an LPG gas leak. If       no LPG gas leak is detected, the system will continue to detect the gas level through the LPG gas sensor until it detects an LPG gas leak.
-# HIGH LEVEL REQUIREMENTS
-
-|ID|DESCRIPTION
-|--|--|
-| HL1 |Sensor to detect the gas leakage.
-| HL2 |GSM module to send a message to a registered mobile number.
-| HL3 |Buzzer to alert the fire has produced.
-| HL4 |To have a quick response time.
-| HL5 |Circuit to be less complex.
-
-# LOW LEVEL REQUIREMENTS
-
-|ID|DESCRIPTION|
-|--|--|
-| LL1 |LED to display the message.
-| LL2 |The circuit to function accordingly
-| LL3 |The complexity to be low.
-| LL4 |Understandable to a layman.
-| LL3 |Easy to use as such appropriate action could be taken.
 
 
 
